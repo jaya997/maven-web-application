@@ -95,6 +95,7 @@
 	</dependencies>
 	
 	<distributionManagement>
+	<!--
 	    <repository>
 	      <id>nexus</id>
 	      <name>Flipkart-dev-relese repository</name>
@@ -106,6 +107,7 @@
 	      <name>Flipkart-dev-snapshot repository</name>
 	      <url>http://3.145.195.54:8081/repository/Flipkaert-dev-Snapshot/</url>
 	    </snapshotRepository>
+	-->
 	</distributionManagement>
 	
 	<build>
