@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://52.14.242.182:9000/</sonar.host.url>
+		<sonar.host.url>http://3.21.93.235:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>1997@jayA</sonar.password>
              
@@ -95,19 +95,17 @@
 	</dependencies>
 	
 	<distributionManagement>
-	<!--
 	    <repository>
 	      <id>nexus</id>
-	      <name>Flipkart-dev-relese repository</name>
-	      <url>http://3.145.195.54:8081/repository/flipkart-dev-Release/</url>
+	      <name>Flipkart dev relese repo</name>
+	      <url>http://13.59.119.37:8081/repository/flipkart-dev-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Flipkart-dev-snapshot repository</name>
-	      <url>http://3.145.195.54:8081/repository/Flipkaert-dev-Snapshot/</url>
+	      <name>Flipkart dev snapshot repo</name>
+	      <url>http://13.59.119.37:8081/repository/Flipkaert-dev-Snapshot/</url>
 	    </snapshotRepository>
-	-->
 	</distributionManagement>
 	
 	<build>
