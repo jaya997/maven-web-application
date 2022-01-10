@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>maven relese repo</name>
-	      <url>http://3.145.211.43:8081/repository/maven-releases/</url>
+	      <url>http://3.145.211.43:8081/repository/flipkart-dev-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>maven snapshot repo</name>
-	      <url>http://3.145.211.43:8081/repository/maven-snapshots/</url>
+	      <url>http://3.145.211.43:8081/repository/Flipkaert-dev-Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
